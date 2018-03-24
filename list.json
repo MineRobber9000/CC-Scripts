@@ -1,0 +1,1 @@
+{"programs": [{"desc": "Emac will be an advanced editor that will have plugins and more features than the base editor.", "name": "emac", "location": "src/main.lua"}, {"desc": "A remote-control turtle program. Requires Turtle/Computer duo.", "name": "rcturtle", "location": "downloader.lua"}]}
